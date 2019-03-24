@@ -36,7 +36,7 @@ public class ProductsActivity extends AppCompatActivity implements ProductAdopte
     public List<Product> productsList;
     protected RecyclerView.Adapter adapter;
 
-    protected String url = "https://msitmp.herokuapp.com/getproducts/20186074";
+    protected String url = "https://msitmp.herokuapp.com/getproducts/20186067";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
